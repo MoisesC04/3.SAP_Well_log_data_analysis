@@ -1,1 +1,1 @@
-# 3.-SPA---Well-log-data-analysis
+# 3.SPA Well-log-data-analysis
